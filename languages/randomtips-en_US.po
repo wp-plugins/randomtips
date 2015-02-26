@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: randomtips_inglese\n"
+"POT-Creation-Date: 2015-02-07 23:43+0100\n"
+"PO-Revision-Date: 2015-02-07 23:44+0100\n"
+"Last-Translator: \n"
+"Language-Team: Softcreepers\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e\n"
+"X-Poedit-SearchPath-0: C:\\Progetti\\software\\UniServerZ\\www\\wordpress"
+"\\wp-content\\plugins\\randomtips\n"
+
+#: C:\Progetti\software\UniServerZ\www\wordpress\wp-content\plugins\randomtips/RandomTips.php:43
+msgid "no data"
+msgstr ""
+
+#: C:\Progetti\software\UniServerZ\www\wordpress\wp-content\plugins\randomtips/administration.php:49
+#: C:\Progetti\software\UniServerZ\www\wordpress\wp-content\plugins\randomtips/administration.php:60
+msgid "settings saved."
+msgstr ""
+
+#: C:\Progetti\software\UniServerZ\www\wordpress\wp-content\plugins\randomtips/administration.php:93
+msgid "Testo"
+msgstr "Text"
+
+#: C:\Progetti\software\UniServerZ\www\wordpress\wp-content\plugins\randomtips/administration.php:94
+msgid "Gruppo"
+msgstr "Group"
+
+#: C:\Progetti\software\UniServerZ\www\wordpress\wp-content\plugins\randomtips/administration.php:95
+msgid "Azioni"
+msgstr "Actions"
+
+#: C:\Progetti\software\UniServerZ\www\wordpress\wp-content\plugins\randomtips/administration.php:109
+msgid "cancella"
+msgstr "delete"
+
+#: C:\Progetti\software\UniServerZ\www\wordpress\wp-content\plugins\randomtips/administration.php:123
+msgid "Testo:"
+msgstr "Text:"
+
+#: C:\Progetti\software\UniServerZ\www\wordpress\wp-content\plugins\randomtips/administration.php:126
+msgid "Gruppo:"
+msgstr "Group:"
