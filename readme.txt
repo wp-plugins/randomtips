@@ -1,17 +1,18 @@
 === RandomTips ===
 Contributors: softcreepers
 Donate link: http://aliceintheartland.com/
-Tags: tips, random, shortcode, quote
+Tags: tips, random, shortcode, sentence
 Requires at least: 3.0.1
-Tested up to: 4.1
+Tested up to: 4.2
 Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-This is a plugin that help on creating a random set of daily tips and sentence to visualize using shortcode.   You can create you set of quote.
-
+This is a plugin that help on creating a random set of daily tips and sentence to visualize using shortcode. To get more information please visit the website  http://aliceintheartland.com/?p=563
+Please leave you rating and you comments. If do you think we can do better and enhance this plugin, please let us know.
+Cheers
 
 == Installation ==
 
